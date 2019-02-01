@@ -1,0 +1,176 @@
+[
+  {
+    "districtCode": 4001,
+    "districtNameTh": "เมืองขอนแก่น",
+    "districtNameEn": "Mueang Khon Kaen",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4002,
+    "districtNameTh": "บ้านฝาง",
+    "districtNameEn": "Ban Fang",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4003,
+    "districtNameTh": "พระยืน",
+    "districtNameEn": "Phra Yuen",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4004,
+    "districtNameTh": "หนองเรือ",
+    "districtNameEn": "Nong Ruea",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4005,
+    "districtNameTh": "ชุมแพ",
+    "districtNameEn": "Chum Phae",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4006,
+    "districtNameTh": "สีชมพู",
+    "districtNameEn": "Si Chomphu",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4007,
+    "districtNameTh": "น้ำพอง",
+    "districtNameEn": "Nam Phong",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4008,
+    "districtNameTh": "อุบลรัตน์",
+    "districtNameEn": "Ubolratana",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4009,
+    "districtNameTh": "กระนวน",
+    "districtNameEn": "Kranuan",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4010,
+    "districtNameTh": "บ้านไผ่",
+    "districtNameEn": "Ban Phai",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4011,
+    "districtNameTh": "เปือยน้อย",
+    "districtNameEn": "Pueai Noi",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4012,
+    "districtNameTh": "พล",
+    "districtNameEn": "Phon",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4013,
+    "districtNameTh": "แวงใหญ่",
+    "districtNameEn": "Waeng Yai",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4014,
+    "districtNameTh": "แวงน้อย",
+    "districtNameEn": "Waeng Noi",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4015,
+    "districtNameTh": "หนองสองห้อง",
+    "districtNameEn": "Nong Song Hong",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4016,
+    "districtNameTh": "ภูเวียง",
+    "districtNameEn": "Phu Wiang",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4017,
+    "districtNameTh": "มัญจาคีรี",
+    "districtNameEn": "Mancha Khiri",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4018,
+    "districtNameTh": "ชนบท",
+    "districtNameEn": "Chonnabot",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4019,
+    "districtNameTh": "เขาสวนกวาง",
+    "districtNameEn": "Khao Suan Kwang",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4020,
+    "districtNameTh": "ภูผาม่าน",
+    "districtNameEn": "Phu Phaman",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4021,
+    "districtNameTh": "ซำสูง",
+    "districtNameEn": "Sam Sung",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4022,
+    "districtNameTh": "โคกโพธิ์ไชย",
+    "districtNameEn": "Khok Pho Chai",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4023,
+    "districtNameTh": "หนองนาคำ",
+    "districtNameEn": "Nong Na Kham",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4024,
+    "districtNameTh": "บ้านแฮด",
+    "districtNameEn": "Ban Haet",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4025,
+    "districtNameTh": "โนนศิลา",
+    "districtNameEn": "Non Sila",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4026,
+    "districtNameTh": "เวียงเก่า",
+    "districtNameEn": "Wiang Kao",
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4029,
+    "districtNameTh": "เวียงเก่า",
+    "districtNameEn": null,
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4068,
+    "districtNameTh": "ท้องถิ่นเทศบาลตำบลบ้านเป็ด*",
+    "districtNameEn": null,
+    "provinceCode": "40"
+  },
+  {
+    "districtCode": 4098,
+    "districtNameTh": "เทศบาลตำบลเมืองพล*",
+    "districtNameEn": null,
+    "provinceCode": "40"
+  }
+]

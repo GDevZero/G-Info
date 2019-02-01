@@ -1,0 +1,44 @@
+[
+  {
+    "districtCode": 1501,
+    "districtNameTh": "เมืองอ่างทอง",
+    "districtNameEn": "Mueang Ang Thong",
+    "provinceCode": "15"
+  },
+  {
+    "districtCode": 1502,
+    "districtNameTh": "ไชโย",
+    "districtNameEn": "Chaiyo",
+    "provinceCode": "15"
+  },
+  {
+    "districtCode": 1503,
+    "districtNameTh": "ป่าโมก",
+    "districtNameEn": "Pa Mok",
+    "provinceCode": "15"
+  },
+  {
+    "districtCode": 1504,
+    "districtNameTh": "โพธิ์ทอง",
+    "districtNameEn": "Pho Thong",
+    "provinceCode": "15"
+  },
+  {
+    "districtCode": 1505,
+    "districtNameTh": "แสวงหา",
+    "districtNameEn": "Sawaeng Ha",
+    "provinceCode": "15"
+  },
+  {
+    "districtCode": 1506,
+    "districtNameTh": "วิเศษชัยชาญ",
+    "districtNameEn": "Wiset Chai Chan",
+    "provinceCode": "15"
+  },
+  {
+    "districtCode": 1507,
+    "districtNameTh": "สามโก้",
+    "districtNameEn": "Samko",
+    "provinceCode": "15"
+  }
+]

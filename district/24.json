@@ -1,0 +1,68 @@
+[
+  {
+    "districtCode": 2401,
+    "districtNameTh": "เมืองฉะเชิงเทรา",
+    "districtNameEn": "Mueang Chachoengsao",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2402,
+    "districtNameTh": "บางคล้า",
+    "districtNameEn": "Bang Khla",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2403,
+    "districtNameTh": "บางน้ำเปรี้ยว",
+    "districtNameEn": "Bang Nam Priao",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2404,
+    "districtNameTh": "บางปะกง",
+    "districtNameEn": "Bang Pakong",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2405,
+    "districtNameTh": "บ้านโพธิ์",
+    "districtNameEn": "Ban Pho",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2406,
+    "districtNameTh": "พนมสารคาม",
+    "districtNameEn": "Phanom Sarakham",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2407,
+    "districtNameTh": "ราชสาส์น",
+    "districtNameEn": "Ratchasan",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2408,
+    "districtNameTh": "สนามชัยเขต",
+    "districtNameEn": "Sanam Chai Khet",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2409,
+    "districtNameTh": "แปลงยาว",
+    "districtNameEn": "Pleang Yao",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2410,
+    "districtNameTh": "ท่าตะเกียบ",
+    "districtNameEn": "Tha Takiap",
+    "provinceCode": "24"
+  },
+  {
+    "districtCode": 2411,
+    "districtNameTh": "คลองเขื่อน",
+    "districtNameEn": "Khlong Khuean",
+    "provinceCode": "24"
+  }
+]

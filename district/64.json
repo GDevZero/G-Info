@@ -1,0 +1,56 @@
+[
+  {
+    "districtCode": 6401,
+    "districtNameTh": "เมืองสุโขทัย",
+    "districtNameEn": "Mueang Sukhothai",
+    "provinceCode": "64"
+  },
+  {
+    "districtCode": 6402,
+    "districtNameTh": "บ้านด่านลานหอย",
+    "districtNameEn": "Ban Dan Lan Hoi",
+    "provinceCode": "64"
+  },
+  {
+    "districtCode": 6403,
+    "districtNameTh": "คีรีมาศ",
+    "districtNameEn": "Khiri Mat",
+    "provinceCode": "64"
+  },
+  {
+    "districtCode": 6404,
+    "districtNameTh": "กงไกรลาศ",
+    "districtNameEn": "Kong Krailat",
+    "provinceCode": "64"
+  },
+  {
+    "districtCode": 6405,
+    "districtNameTh": "ศรีสัชนาลัย",
+    "districtNameEn": "Si Satchanalai",
+    "provinceCode": "64"
+  },
+  {
+    "districtCode": 6406,
+    "districtNameTh": "ศรีสำโรง",
+    "districtNameEn": "Si Samrong",
+    "provinceCode": "64"
+  },
+  {
+    "districtCode": 6407,
+    "districtNameTh": "สวรรคโลก",
+    "districtNameEn": "Sawankhalok",
+    "provinceCode": "64"
+  },
+  {
+    "districtCode": 6408,
+    "districtNameTh": "ศรีนคร",
+    "districtNameEn": "Si Nakhon",
+    "provinceCode": "64"
+  },
+  {
+    "districtCode": 6409,
+    "districtNameTh": "ทุ่งเสลี่ยม",
+    "districtNameEn": "Thung Saliam",
+    "provinceCode": "64"
+  }
+]

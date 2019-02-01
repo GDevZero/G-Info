@@ -1,0 +1,32 @@
+[
+  {
+    "districtCode": 8501,
+    "districtNameTh": "เมืองระนอง",
+    "districtNameEn": "Mueang Ranong",
+    "provinceCode": "85"
+  },
+  {
+    "districtCode": 8502,
+    "districtNameTh": "ละอุ่น",
+    "districtNameEn": "La-un",
+    "provinceCode": "85"
+  },
+  {
+    "districtCode": 8503,
+    "districtNameTh": "กะเปอร์",
+    "districtNameEn": "Papoe",
+    "provinceCode": "85"
+  },
+  {
+    "districtCode": 8504,
+    "districtNameTh": "กระบุรี",
+    "districtNameEn": "Kra Buri",
+    "provinceCode": "85"
+  },
+  {
+    "districtCode": 8505,
+    "districtNameTh": "สุขสำราญ",
+    "districtNameEn": "Suk Samran",
+    "provinceCode": "85"
+  }
+]

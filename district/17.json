@@ -1,0 +1,38 @@
+[
+  {
+    "districtCode": 1701,
+    "districtNameTh": "เมืองสิงห์บุรี",
+    "districtNameEn": "Mueang Sing Buri",
+    "provinceCode": "17"
+  },
+  {
+    "districtCode": 1702,
+    "districtNameTh": "บางระจัน",
+    "districtNameEn": "Bang Rachan",
+    "provinceCode": "17"
+  },
+  {
+    "districtCode": 1703,
+    "districtNameTh": "ค่ายบางระจัน",
+    "districtNameEn": "Khai Bang Rachan",
+    "provinceCode": "17"
+  },
+  {
+    "districtCode": 1704,
+    "districtNameTh": "พรหมบุรี",
+    "districtNameEn": "Phrom Buri",
+    "provinceCode": "17"
+  },
+  {
+    "districtCode": 1705,
+    "districtNameTh": "ท่าช้าง",
+    "districtNameEn": "Tha Chang",
+    "provinceCode": "17"
+  },
+  {
+    "districtCode": 1706,
+    "districtNameTh": "อินทร์บุรี",
+    "districtNameEn": "In Buri",
+    "provinceCode": "17"
+  }
+]

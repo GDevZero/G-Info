@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 1201,
+    "districtNameTh": "เมืองนนทบุรี",
+    "districtNameEn": "Mueang Nonthaburi",
+    "provinceCode": "12"
+  },
+  {
+    "districtCode": 1202,
+    "districtNameTh": "บางกรวย",
+    "districtNameEn": "Bang Kruai",
+    "provinceCode": "12"
+  },
+  {
+    "districtCode": 1203,
+    "districtNameTh": "บางใหญ่",
+    "districtNameEn": "Bang Yai",
+    "provinceCode": "12"
+  },
+  {
+    "districtCode": 1204,
+    "districtNameTh": "บางบัวทอง",
+    "districtNameEn": "Bang Bua Thong",
+    "provinceCode": "12"
+  },
+  {
+    "districtCode": 1205,
+    "districtNameTh": "ไทรน้อย",
+    "districtNameEn": "Sai Noi",
+    "provinceCode": "12"
+  },
+  {
+    "districtCode": 1206,
+    "districtNameTh": "ปากเกร็ด",
+    "districtNameEn": "Pak Kret",
+    "provinceCode": "12"
+  },
+  {
+    "districtCode": 1251,
+    "districtNameTh": "เทศบาลนครนนทบุรี (สาขาแขวงท่าทราย)*",
+    "districtNameEn": null,
+    "provinceCode": "12"
+  },
+  {
+    "districtCode": 1297,
+    "districtNameTh": "เทศบาลเมืองปากเกร็ด*",
+    "districtNameEn": null,
+    "provinceCode": "12"
+  }
+]

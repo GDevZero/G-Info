@@ -1,0 +1,56 @@
+[
+  {
+    "districtCode": 6501,
+    "districtNameTh": "เมืองพิษณุโลก",
+    "districtNameEn": "Mueang Phitsanulok",
+    "provinceCode": "65"
+  },
+  {
+    "districtCode": 6502,
+    "districtNameTh": "นครไทย",
+    "districtNameEn": "Nakhon Thai",
+    "provinceCode": "65"
+  },
+  {
+    "districtCode": 6503,
+    "districtNameTh": "ชาติตระการ",
+    "districtNameEn": "Chat Trakan",
+    "provinceCode": "65"
+  },
+  {
+    "districtCode": 6504,
+    "districtNameTh": "บางระกำ",
+    "districtNameEn": "Bang Rakam",
+    "provinceCode": "65"
+  },
+  {
+    "districtCode": 6505,
+    "districtNameTh": "บางกระทุ่ม",
+    "districtNameEn": "Bang Krathum",
+    "provinceCode": "65"
+  },
+  {
+    "districtCode": 6506,
+    "districtNameTh": "พรหมพิราม",
+    "districtNameEn": "Phrom Phiram",
+    "provinceCode": "65"
+  },
+  {
+    "districtCode": 6507,
+    "districtNameTh": "วัดโบสถ์",
+    "districtNameEn": "Wat Bot",
+    "provinceCode": "65"
+  },
+  {
+    "districtCode": 6508,
+    "districtNameTh": "วังทอง",
+    "districtNameEn": "Wang Thong",
+    "provinceCode": "65"
+  },
+  {
+    "districtCode": 6509,
+    "districtNameTh": "เนินมะปราง",
+    "districtNameEn": "Noen Maprang",
+    "provinceCode": "65"
+  }
+]

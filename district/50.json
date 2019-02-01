@@ -1,0 +1,170 @@
+[
+  {
+    "districtCode": 5001,
+    "districtNameTh": "เมืองเชียงใหม่",
+    "districtNameEn": "Mueang Chiang Mai",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5002,
+    "districtNameTh": "จอมทอง",
+    "districtNameEn": "Chom Thong",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5003,
+    "districtNameTh": "แม่แจ่ม",
+    "districtNameEn": "Mae Chaem",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5004,
+    "districtNameTh": "เชียงดาว",
+    "districtNameEn": "Chiang Dao",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5005,
+    "districtNameTh": "ดอยสะเก็ด",
+    "districtNameEn": "Doi Saket",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5006,
+    "districtNameTh": "แม่แตง",
+    "districtNameEn": "Mae Taeng",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5007,
+    "districtNameTh": "แม่ริม",
+    "districtNameEn": "Mae Rim",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5008,
+    "districtNameTh": "สะเมิง",
+    "districtNameEn": "Samoeng",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5009,
+    "districtNameTh": "ฝาง",
+    "districtNameEn": "Fang",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5010,
+    "districtNameTh": "แม่อาย",
+    "districtNameEn": "Mae Ai",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5011,
+    "districtNameTh": "พร้าว",
+    "districtNameEn": "Phrao",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5012,
+    "districtNameTh": "สันป่าตอง",
+    "districtNameEn": "San Pa Tong",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5013,
+    "districtNameTh": "สันกำแพง",
+    "districtNameEn": "San Kamphaeng",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5014,
+    "districtNameTh": "สันทราย",
+    "districtNameEn": "San Sai",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5015,
+    "districtNameTh": "หางดง",
+    "districtNameEn": "Hang Dong",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5016,
+    "districtNameTh": "ฮอด",
+    "districtNameEn": "Hot",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5017,
+    "districtNameTh": "ดอยเต่า",
+    "districtNameEn": "Doi Tao",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5018,
+    "districtNameTh": "อมก๋อย",
+    "districtNameEn": "Omkoi",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5019,
+    "districtNameTh": "สารภี",
+    "districtNameEn": "Saraphi",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5020,
+    "districtNameTh": "เวียงแหง",
+    "districtNameEn": "Wiang Haeng",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5021,
+    "districtNameTh": "ไชยปราการ",
+    "districtNameEn": "Chai Prakan",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5022,
+    "districtNameTh": "แม่วาง",
+    "districtNameEn": "Mae Wang",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5023,
+    "districtNameTh": "แม่ออน",
+    "districtNameEn": "Mae On",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5024,
+    "districtNameTh": "ดอยหล่อ",
+    "districtNameEn": "Doi Lo",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5025,
+    "districtNameTh": "กัลยาณิวัฒนา",
+    "districtNameEn": "Kanlayaniwatthana",
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5051,
+    "districtNameTh": "เทศบาลนครเชียงใหม่ (สาขาแขวงกาลวิละ*",
+    "districtNameEn": null,
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5052,
+    "districtNameTh": "เทศบาลนครเชียงใหม่ (สาขาแขวงศรีวิชั*",
+    "districtNameEn": null,
+    "provinceCode": "50"
+  },
+  {
+    "districtCode": 5053,
+    "districtNameTh": "เทศบาลนครเชียงใหม่ (สาขาเม็งราย*",
+    "districtNameEn": null,
+    "provinceCode": "50"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "districtCode": 7101,
+    "districtNameTh": "เมืองกาญจนบุรี",
+    "districtNameEn": "Mueang Kanchanaburi",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7102,
+    "districtNameTh": "ไทรโยค",
+    "districtNameEn": "Sai Yok",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7103,
+    "districtNameTh": "บ่อพลอย",
+    "districtNameEn": "Bo Phloi",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7104,
+    "districtNameTh": "ศรีสวัสดิ์",
+    "districtNameEn": "Si Sawat",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7105,
+    "districtNameTh": "ท่ามะกา",
+    "districtNameEn": "Tha Maka",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7106,
+    "districtNameTh": "ท่าม่วง",
+    "districtNameEn": "Tha Muang",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7107,
+    "districtNameTh": "ทองผาภูมิ",
+    "districtNameEn": "Thong Pha Phum",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7108,
+    "districtNameTh": "สังขละบุรี",
+    "districtNameEn": "Sangkhla Buri",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7109,
+    "districtNameTh": "พนมทวน",
+    "districtNameEn": "Phanom Thuan",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7110,
+    "districtNameTh": "เลาขวัญ",
+    "districtNameEn": "Lao Khwan",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7111,
+    "districtNameTh": "ด่านมะขามเตี้ย",
+    "districtNameEn": "Dan Makham Tia",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7112,
+    "districtNameTh": "หนองปรือ",
+    "districtNameEn": "Nong Prue",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7113,
+    "districtNameTh": "ห้วยกระเจา",
+    "districtNameEn": "Huai Krachao",
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7151,
+    "districtNameTh": "สาขาตำบลท่ากระดาน*",
+    "districtNameEn": null,
+    "provinceCode": "71"
+  },
+  {
+    "districtCode": 7181,
+    "districtNameTh": "บ้านทวน  จ.กาญจนบุรี*",
+    "districtNameEn": null,
+    "provinceCode": "71"
+  }
+]

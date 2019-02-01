@@ -1,0 +1,68 @@
+[
+  {
+    "districtCode": 2201,
+    "districtNameTh": "เมืองจันทบุรี",
+    "districtNameEn": "Mueang Chanthaburi",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2202,
+    "districtNameTh": "ขลุง",
+    "districtNameEn": "Khlung",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2203,
+    "districtNameTh": "ท่าใหม่",
+    "districtNameEn": "Tha Mai",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2204,
+    "districtNameTh": "โป่งน้ำร้อน",
+    "districtNameEn": "Pong Nam Ron",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2205,
+    "districtNameTh": "มะขาม",
+    "districtNameEn": "Makham",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2206,
+    "districtNameTh": "แหลมสิงห์",
+    "districtNameEn": "Laem Sing",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2207,
+    "districtNameTh": "สอยดาว",
+    "districtNameEn": "Soi Dao",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2208,
+    "districtNameTh": "แก่งหางแมว",
+    "districtNameEn": "Kaeng Hang Maeo",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2209,
+    "districtNameTh": "นายายอาม",
+    "districtNameEn": "Na Yai Am",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2210,
+    "districtNameTh": "เขาคิชฌกูฏ",
+    "districtNameEn": "Khao Khitchakut",
+    "provinceCode": "22"
+  },
+  {
+    "districtCode": 2281,
+    "districtNameTh": "กิ่ง อ.กำพุธ\tจ.จันทบุรี*",
+    "districtNameEn": null,
+    "provinceCode": "22"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "districtCode": 2601,
+    "districtNameTh": "เมืองนครนายก",
+    "districtNameEn": "Mueang Nakhon Nayok",
+    "provinceCode": "26"
+  },
+  {
+    "districtCode": 2602,
+    "districtNameTh": "ปากพลี",
+    "districtNameEn": "Pak Phli",
+    "provinceCode": "26"
+  },
+  {
+    "districtCode": 2603,
+    "districtNameTh": "บ้านนา",
+    "districtNameEn": "Ban Na",
+    "provinceCode": "26"
+  },
+  {
+    "districtCode": 2604,
+    "districtNameTh": "องครักษ์",
+    "districtNameEn": "Ongkharak",
+    "provinceCode": "26"
+  }
+]

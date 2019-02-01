@@ -1,0 +1,44 @@
+[
+  {
+    "districtCode": 3701,
+    "districtNameTh": "เมืองอำนาจเจริญ",
+    "districtNameEn": "Mueang Amnat Charoen",
+    "provinceCode": "37"
+  },
+  {
+    "districtCode": 3702,
+    "districtNameTh": "ชานุมาน",
+    "districtNameEn": "Chanuman",
+    "provinceCode": "37"
+  },
+  {
+    "districtCode": 3703,
+    "districtNameTh": "ปทุมราชวงศา",
+    "districtNameEn": "Pathum Ratchawongsa",
+    "provinceCode": "37"
+  },
+  {
+    "districtCode": 3704,
+    "districtNameTh": "พนา",
+    "districtNameEn": "Phana",
+    "provinceCode": "37"
+  },
+  {
+    "districtCode": 3705,
+    "districtNameTh": "เสนางคนิคม",
+    "districtNameEn": "Senangkhanikhom",
+    "provinceCode": "37"
+  },
+  {
+    "districtCode": 3706,
+    "districtNameTh": "หัวตะพาน",
+    "districtNameEn": "Hua Taphan",
+    "provinceCode": "37"
+  },
+  {
+    "districtCode": 3707,
+    "districtNameTh": "ลืออำนาจ",
+    "districtNameEn": "Lue Amnat",
+    "provinceCode": "37"
+  }
+]

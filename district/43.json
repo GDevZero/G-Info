@@ -1,0 +1,56 @@
+[
+  {
+    "districtCode": 4301,
+    "districtNameTh": "เมืองหนองคาย",
+    "districtNameEn": "Mueang Nong Khai",
+    "provinceCode": "43"
+  },
+  {
+    "districtCode": 4302,
+    "districtNameTh": "ท่าบ่อ",
+    "districtNameEn": "Tha Bo",
+    "provinceCode": "43"
+  },
+  {
+    "districtCode": 4305,
+    "districtNameTh": "โพนพิสัย",
+    "districtNameEn": "Phon Phisai",
+    "provinceCode": "43"
+  },
+  {
+    "districtCode": 4307,
+    "districtNameTh": "ศรีเชียงใหม่",
+    "districtNameEn": "Si Chiang Mai",
+    "provinceCode": "43"
+  },
+  {
+    "districtCode": 4308,
+    "districtNameTh": "สังคม",
+    "districtNameEn": "Sangkhom",
+    "provinceCode": "43"
+  },
+  {
+    "districtCode": 4314,
+    "districtNameTh": "สระใคร",
+    "districtNameEn": "Sakhrai",
+    "provinceCode": "43"
+  },
+  {
+    "districtCode": 4315,
+    "districtNameTh": "เฝ้าไร่",
+    "districtNameEn": "Fao Rai",
+    "provinceCode": "43"
+  },
+  {
+    "districtCode": 4316,
+    "districtNameTh": "รัตนวาปี",
+    "districtNameEn": "Rattanawapi",
+    "provinceCode": "43"
+  },
+  {
+    "districtCode": 4317,
+    "districtNameTh": "โพธิ์ตาก",
+    "districtNameEn": "Pho Tak",
+    "provinceCode": "43"
+  }
+]

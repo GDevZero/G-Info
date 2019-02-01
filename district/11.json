@@ -1,0 +1,38 @@
+[
+  {
+    "districtCode": 1101,
+    "districtNameTh": "เมืองสมุทรปราการ",
+    "districtNameEn": "Mueang Samut Prakan",
+    "provinceCode": "11"
+  },
+  {
+    "districtCode": 1102,
+    "districtNameTh": "บางบ่อ",
+    "districtNameEn": "Bang Bo",
+    "provinceCode": "11"
+  },
+  {
+    "districtCode": 1103,
+    "districtNameTh": "บางพลี",
+    "districtNameEn": "Bang Phli",
+    "provinceCode": "11"
+  },
+  {
+    "districtCode": 1104,
+    "districtNameTh": "พระประแดง",
+    "districtNameEn": "Phra Pradaeng",
+    "provinceCode": "11"
+  },
+  {
+    "districtCode": 1105,
+    "districtNameTh": "พระสมุทรเจดีย์",
+    "districtNameEn": "Phra Samut Chedi",
+    "provinceCode": "11"
+  },
+  {
+    "districtCode": 1106,
+    "districtNameTh": "บางเสาธง",
+    "districtNameEn": "Bang Sao Thong",
+    "provinceCode": "11"
+  }
+]

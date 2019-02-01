@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 8601,
+    "districtNameTh": "เมืองชุมพร",
+    "districtNameEn": "Mueang Chumphon",
+    "provinceCode": "86"
+  },
+  {
+    "districtCode": 8602,
+    "districtNameTh": "ท่าแซะ",
+    "districtNameEn": "Tha Sae",
+    "provinceCode": "86"
+  },
+  {
+    "districtCode": 8603,
+    "districtNameTh": "ปะทิว",
+    "districtNameEn": "Pathio",
+    "provinceCode": "86"
+  },
+  {
+    "districtCode": 8604,
+    "districtNameTh": "หลังสวน",
+    "districtNameEn": "Lang Suan",
+    "provinceCode": "86"
+  },
+  {
+    "districtCode": 8605,
+    "districtNameTh": "ละแม",
+    "districtNameEn": "Lamae",
+    "provinceCode": "86"
+  },
+  {
+    "districtCode": 8606,
+    "districtNameTh": "พะโต๊ะ",
+    "districtNameEn": "Phato",
+    "provinceCode": "86"
+  },
+  {
+    "districtCode": 8607,
+    "districtNameTh": "สวี",
+    "districtNameEn": "Sawi",
+    "provinceCode": "86"
+  },
+  {
+    "districtCode": 8608,
+    "districtNameTh": "ทุ่งตะโก",
+    "districtNameEn": "Thung Tako",
+    "provinceCode": "86"
+  }
+]

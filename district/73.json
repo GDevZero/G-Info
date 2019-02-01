@@ -1,0 +1,44 @@
+[
+  {
+    "districtCode": 7301,
+    "districtNameTh": "เมืองนครปฐม",
+    "districtNameEn": "mueang Nakhon Pathom",
+    "provinceCode": "73"
+  },
+  {
+    "districtCode": 7302,
+    "districtNameTh": "กำแพงแสน",
+    "districtNameEn": "Kamphaeng Saen",
+    "provinceCode": "73"
+  },
+  {
+    "districtCode": 7303,
+    "districtNameTh": "นครชัยศรี",
+    "districtNameEn": "Nakhon Chai Si",
+    "provinceCode": "73"
+  },
+  {
+    "districtCode": 7304,
+    "districtNameTh": "ดอนตูม",
+    "districtNameEn": "Don Tum",
+    "provinceCode": "73"
+  },
+  {
+    "districtCode": 7305,
+    "districtNameTh": "บางเลน",
+    "districtNameEn": "Bang Len",
+    "provinceCode": "73"
+  },
+  {
+    "districtCode": 7306,
+    "districtNameTh": "สามพราน",
+    "districtNameEn": "Sam Phran",
+    "provinceCode": "73"
+  },
+  {
+    "districtCode": 7307,
+    "districtNameTh": "พุทธมณฑล",
+    "districtNameEn": "Phutthamonthon",
+    "provinceCode": "73"
+  }
+]

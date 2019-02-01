@@ -1,0 +1,56 @@
+[
+  {
+    "districtCode": 2701,
+    "districtNameTh": "เมืองสระแก้ว",
+    "districtNameEn": "Mueang Sa Kaeo",
+    "provinceCode": "27"
+  },
+  {
+    "districtCode": 2702,
+    "districtNameTh": "คลองหาด",
+    "districtNameEn": "Khlong Hat",
+    "provinceCode": "27"
+  },
+  {
+    "districtCode": 2703,
+    "districtNameTh": "ตาพระยา",
+    "districtNameEn": "Ta Phraya",
+    "provinceCode": "27"
+  },
+  {
+    "districtCode": 2704,
+    "districtNameTh": "วังน้ำเย็น",
+    "districtNameEn": "Wang Nam Yen",
+    "provinceCode": "27"
+  },
+  {
+    "districtCode": 2705,
+    "districtNameTh": "วัฒนานคร",
+    "districtNameEn": "Watthana Nakhon",
+    "provinceCode": "27"
+  },
+  {
+    "districtCode": 2706,
+    "districtNameTh": "อรัญประเทศ",
+    "districtNameEn": "Aranyaprathet",
+    "provinceCode": "27"
+  },
+  {
+    "districtCode": 2707,
+    "districtNameTh": "เขาฉกรรจ์",
+    "districtNameEn": "Khao Chakan",
+    "provinceCode": "27"
+  },
+  {
+    "districtCode": 2708,
+    "districtNameTh": "โคกสูง",
+    "districtNameEn": "Khok Sung",
+    "provinceCode": "27"
+  },
+  {
+    "districtCode": 2709,
+    "districtNameTh": "วังสมบูรณ์",
+    "districtNameEn": "Wang Sombun",
+    "provinceCode": "27"
+  }
+]

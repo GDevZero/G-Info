@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 5801,
+    "districtNameTh": "เมืองแม่ฮ่องสอน",
+    "districtNameEn": "Mueang Mae Hong Son",
+    "provinceCode": "58"
+  },
+  {
+    "districtCode": 5802,
+    "districtNameTh": "ขุนยวม",
+    "districtNameEn": "Khun Yuam",
+    "provinceCode": "58"
+  },
+  {
+    "districtCode": 5803,
+    "districtNameTh": "ปาย",
+    "districtNameEn": "Pai",
+    "provinceCode": "58"
+  },
+  {
+    "districtCode": 5804,
+    "districtNameTh": "แม่สะเรียง",
+    "districtNameEn": "Mae Sariang",
+    "provinceCode": "58"
+  },
+  {
+    "districtCode": 5805,
+    "districtNameTh": "แม่ลาน้อย",
+    "districtNameEn": "Mae La Noi",
+    "provinceCode": "58"
+  },
+  {
+    "districtCode": 5806,
+    "districtNameTh": "สบเมย",
+    "districtNameEn": "Sop Moei",
+    "provinceCode": "58"
+  },
+  {
+    "districtCode": 5807,
+    "districtNameTh": "ปางมะผ้า",
+    "districtNameEn": "Pang Mapha",
+    "provinceCode": "58"
+  },
+  {
+    "districtCode": 5881,
+    "districtNameTh": "อ.ม่วยต่อ\tจ.แม่ฮ่องสอน*",
+    "districtNameEn": null,
+    "provinceCode": "58"
+  }
+]

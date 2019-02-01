@@ -1,0 +1,44 @@
+[
+  {
+    "districtCode": 2301,
+    "districtNameTh": "เมืองตราด",
+    "districtNameEn": "Mueang Trat",
+    "provinceCode": "23"
+  },
+  {
+    "districtCode": 2302,
+    "districtNameTh": "คลองใหญ่",
+    "districtNameEn": "Khlong Yai",
+    "provinceCode": "23"
+  },
+  {
+    "districtCode": 2303,
+    "districtNameTh": "เขาสมิง",
+    "districtNameEn": "Khao Saming",
+    "provinceCode": "23"
+  },
+  {
+    "districtCode": 2304,
+    "districtNameTh": "บ่อไร่",
+    "districtNameEn": "Bo Rai",
+    "provinceCode": "23"
+  },
+  {
+    "districtCode": 2305,
+    "districtNameTh": "แหลมงอบ",
+    "districtNameEn": "Laem Ngop",
+    "provinceCode": "23"
+  },
+  {
+    "districtCode": 2306,
+    "districtNameTh": "เกาะกูด",
+    "districtNameEn": "Ko Kut",
+    "provinceCode": "23"
+  },
+  {
+    "districtCode": 2307,
+    "districtNameTh": "เกาะช้าง",
+    "districtNameEn": "Ko Chang",
+    "provinceCode": "23"
+  }
+]

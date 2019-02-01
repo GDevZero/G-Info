@@ -1,0 +1,170 @@
+[
+  {
+    "districtCode": 8001,
+    "districtNameTh": "เมืองนครศรีธรรมราช",
+    "districtNameEn": "Mueang Nakhon Si Thammarat",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8002,
+    "districtNameTh": "พรหมคีรี",
+    "districtNameEn": "Phrom Khiri",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8003,
+    "districtNameTh": "ลานสกา",
+    "districtNameEn": "Lan Saka",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8004,
+    "districtNameTh": "ฉวาง",
+    "districtNameEn": "Chawang",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8005,
+    "districtNameTh": "พิปูน",
+    "districtNameEn": "Phipun",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8006,
+    "districtNameTh": "เชียรใหญ่",
+    "districtNameEn": "Chian Yai",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8007,
+    "districtNameTh": "ชะอวด",
+    "districtNameEn": "Cha-uat",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8008,
+    "districtNameTh": "ท่าศาลา",
+    "districtNameEn": "Tha Sala",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8009,
+    "districtNameTh": "ทุ่งสง",
+    "districtNameEn": "Thung Song",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8010,
+    "districtNameTh": "นาบอน",
+    "districtNameEn": "Na Bon",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8011,
+    "districtNameTh": "ทุ่งใหญ่",
+    "districtNameEn": "Thung Yai",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8012,
+    "districtNameTh": "ปากพนัง",
+    "districtNameEn": "Pak Phanang",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8013,
+    "districtNameTh": "ร่อนพิบูลย์",
+    "districtNameEn": "Ron Phibun",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8014,
+    "districtNameTh": "สิชล",
+    "districtNameEn": "Sichon",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8015,
+    "districtNameTh": "ขนอม",
+    "districtNameEn": "Khanom",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8016,
+    "districtNameTh": "หัวไทร",
+    "districtNameEn": "Hua Sai",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8017,
+    "districtNameTh": "บางขัน",
+    "districtNameEn": "Bang Khan",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8018,
+    "districtNameTh": "ถ้ำพรรณรา",
+    "districtNameEn": "Tham Phannara",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8019,
+    "districtNameTh": "จุฬาภรณ์",
+    "districtNameEn": "Chulabhorn",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8020,
+    "districtNameTh": "พระพรหม",
+    "districtNameEn": "Phra Phrom",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8021,
+    "districtNameTh": "นบพิตำ",
+    "districtNameEn": "Nopphitam",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8022,
+    "districtNameTh": "ช้างกลาง",
+    "districtNameEn": "Chang Klang",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8023,
+    "districtNameTh": "เฉลิมพระเกียรติ",
+    "districtNameEn": "Chaloem Phra Kiet",
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8051,
+    "districtNameTh": "เชียรใหญ่ (สาขาตำบลเสือหึง)*",
+    "districtNameEn": null,
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8052,
+    "districtNameTh": "สาขาตำบลสวนหลวง*",
+    "districtNameEn": null,
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8053,
+    "districtNameTh": "ร่อนพิบูลย์ (สาขาตำบลหินตก)*",
+    "districtNameEn": null,
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8054,
+    "districtNameTh": "หัวไทร (สาขาตำบลควนชะลิก)*",
+    "districtNameEn": null,
+    "provinceCode": "80"
+  },
+  {
+    "districtCode": 8055,
+    "districtNameTh": "ทุ่งสง (สาขาตำบลกะปาง)*",
+    "districtNameEn": null,
+    "provinceCode": "80"
+  }
+]

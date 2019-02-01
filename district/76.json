@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 7601,
+    "districtNameTh": "เมืองเพชรบุรี",
+    "districtNameEn": "Mueang Phetchaburi",
+    "provinceCode": "76"
+  },
+  {
+    "districtCode": 7602,
+    "districtNameTh": "เขาย้อย",
+    "districtNameEn": "Khao Yoi",
+    "provinceCode": "76"
+  },
+  {
+    "districtCode": 7603,
+    "districtNameTh": "หนองหญ้าปล้อง",
+    "districtNameEn": "Nong Ya Plong",
+    "provinceCode": "76"
+  },
+  {
+    "districtCode": 7604,
+    "districtNameTh": "ชะอำ",
+    "districtNameEn": "Cha-am",
+    "provinceCode": "76"
+  },
+  {
+    "districtCode": 7605,
+    "districtNameTh": "ท่ายาง",
+    "districtNameEn": "Tha Yang",
+    "provinceCode": "76"
+  },
+  {
+    "districtCode": 7606,
+    "districtNameTh": "บ้านลาด",
+    "districtNameEn": "Ban Lat",
+    "provinceCode": "76"
+  },
+  {
+    "districtCode": 7607,
+    "districtNameTh": "บ้านแหลม",
+    "districtNameEn": "Ban Laem",
+    "provinceCode": "76"
+  },
+  {
+    "districtCode": 7608,
+    "districtNameTh": "แก่งกระจาน",
+    "districtNameEn": "Kaeng Krachan",
+    "provinceCode": "76"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 6101,
+    "districtNameTh": "เมืองอุทัยธานี",
+    "districtNameEn": "Mueang Uthai Thani",
+    "provinceCode": "61"
+  },
+  {
+    "districtCode": 6102,
+    "districtNameTh": "ทัพทัน",
+    "districtNameEn": "Thap Than",
+    "provinceCode": "61"
+  },
+  {
+    "districtCode": 6103,
+    "districtNameTh": "สว่างอารมณ์",
+    "districtNameEn": "Sawang Arom",
+    "provinceCode": "61"
+  },
+  {
+    "districtCode": 6104,
+    "districtNameTh": "หนองฉาง",
+    "districtNameEn": "Nong Chang",
+    "provinceCode": "61"
+  },
+  {
+    "districtCode": 6105,
+    "districtNameTh": "หนองขาหย่าง",
+    "districtNameEn": "Nong Khayang",
+    "provinceCode": "61"
+  },
+  {
+    "districtCode": 6106,
+    "districtNameTh": "บ้านไร่",
+    "districtNameEn": "Ban Rai",
+    "provinceCode": "61"
+  },
+  {
+    "districtCode": 6107,
+    "districtNameTh": "ลานสัก",
+    "districtNameEn": "Lan Sak",
+    "provinceCode": "61"
+  },
+  {
+    "districtCode": 6108,
+    "districtNameTh": "ห้วยคต",
+    "districtNameEn": "Huai Khot",
+    "provinceCode": "61"
+  }
+]

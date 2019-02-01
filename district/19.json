@@ -1,0 +1,80 @@
+[
+  {
+    "districtCode": 1901,
+    "districtNameTh": "เมืองสระบุรี",
+    "districtNameEn": "Mueang Saraburi",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1902,
+    "districtNameTh": "แก่งคอย",
+    "districtNameEn": "Kaeng Khoi",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1903,
+    "districtNameTh": "หนองแค",
+    "districtNameEn": "Nong Khae",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1904,
+    "districtNameTh": "วิหารแดง",
+    "districtNameEn": "Wihan Daeng",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1905,
+    "districtNameTh": "หนองแซง",
+    "districtNameEn": "Nong Saeng",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1906,
+    "districtNameTh": "บ้านหมอ",
+    "districtNameEn": "Ban Mo",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1907,
+    "districtNameTh": "ดอนพุด",
+    "districtNameEn": "Don Phut",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1908,
+    "districtNameTh": "หนองโดน",
+    "districtNameEn": "Nong Don",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1909,
+    "districtNameTh": "พระพุทธบาท",
+    "districtNameEn": "Phra Phutthabat",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1910,
+    "districtNameTh": "เสาไห้",
+    "districtNameEn": "Sao Hai",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1911,
+    "districtNameTh": "มวกเหล็ก",
+    "districtNameEn": "Muak Lek",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1912,
+    "districtNameTh": "วังม่วง",
+    "districtNameEn": "Wang Muang",
+    "provinceCode": "19"
+  },
+  {
+    "districtCode": 1913,
+    "districtNameTh": "เฉลิมพระเกียรติ",
+    "districtNameEn": "Chaloem Phra Kiet",
+    "provinceCode": "19"
+  }
+]

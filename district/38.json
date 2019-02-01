@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 3801,
+    "districtNameTh": "บึงกาฬ",
+    "districtNameEn": "Bueng Kan",
+    "provinceCode": "38"
+  },
+  {
+    "districtCode": 3802,
+    "districtNameTh": "พรเจริญ",
+    "districtNameEn": "Phon Charoen",
+    "provinceCode": "38"
+  },
+  {
+    "districtCode": 3803,
+    "districtNameTh": "โซ่พิสัย",
+    "districtNameEn": "So Phisai",
+    "provinceCode": "38"
+  },
+  {
+    "districtCode": 3804,
+    "districtNameTh": "เซกา",
+    "districtNameEn": "Seka",
+    "provinceCode": "38"
+  },
+  {
+    "districtCode": 3805,
+    "districtNameTh": "ปากคาด",
+    "districtNameEn": "Pak Khat",
+    "provinceCode": "38"
+  },
+  {
+    "districtCode": 3806,
+    "districtNameTh": "บึงโขงหลง",
+    "districtNameEn": "Bueng Khong Long",
+    "provinceCode": "38"
+  },
+  {
+    "districtCode": 3807,
+    "districtNameTh": "ศรีวิไล",
+    "districtNameEn": "Si Wilai",
+    "provinceCode": "38"
+  },
+  {
+    "districtCode": 3808,
+    "districtNameTh": "บุ่งคล้า",
+    "districtNameEn": "Bung Khla",
+    "provinceCode": "38"
+  }
+]

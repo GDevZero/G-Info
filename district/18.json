@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 1801,
+    "districtNameTh": "เมืองชัยนาท",
+    "districtNameEn": "Mueang Chai Nat",
+    "provinceCode": "18"
+  },
+  {
+    "districtCode": 1802,
+    "districtNameTh": "มโนรมย์",
+    "districtNameEn": "Manorom",
+    "provinceCode": "18"
+  },
+  {
+    "districtCode": 1803,
+    "districtNameTh": "วัดสิงห์",
+    "districtNameEn": "Wat Sing",
+    "provinceCode": "18"
+  },
+  {
+    "districtCode": 1804,
+    "districtNameTh": "สรรพยา",
+    "districtNameEn": "Sapphaya",
+    "provinceCode": "18"
+  },
+  {
+    "districtCode": 1805,
+    "districtNameTh": "สรรคบุรี",
+    "districtNameEn": "Sankhaburi",
+    "provinceCode": "18"
+  },
+  {
+    "districtCode": 1806,
+    "districtNameTh": "หันคา",
+    "districtNameEn": "Hankha",
+    "provinceCode": "18"
+  },
+  {
+    "districtCode": 1807,
+    "districtNameTh": "หนองมะโมง",
+    "districtNameEn": "Nong Mamong",
+    "provinceCode": "18"
+  },
+  {
+    "districtCode": 1808,
+    "districtNameTh": "เนินขาม",
+    "districtNameEn": "Noen Kham",
+    "provinceCode": "18"
+  }
+]

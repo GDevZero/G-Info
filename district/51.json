@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 5101,
+    "districtNameTh": "เมืองลำพูน",
+    "districtNameEn": "Mueang Lamphun",
+    "provinceCode": "51"
+  },
+  {
+    "districtCode": 5102,
+    "districtNameTh": "แม่ทา",
+    "districtNameEn": "Mae Tha",
+    "provinceCode": "51"
+  },
+  {
+    "districtCode": 5103,
+    "districtNameTh": "บ้านโฮ่ง",
+    "districtNameEn": "Ban Hong",
+    "provinceCode": "51"
+  },
+  {
+    "districtCode": 5104,
+    "districtNameTh": "ลี้",
+    "districtNameEn": "Li",
+    "provinceCode": "51"
+  },
+  {
+    "districtCode": 5105,
+    "districtNameTh": "ทุ่งหัวช้าง",
+    "districtNameEn": "Thung Hua Chang",
+    "provinceCode": "51"
+  },
+  {
+    "districtCode": 5106,
+    "districtNameTh": "ป่าซาง",
+    "districtNameEn": "Pa Sang",
+    "provinceCode": "51"
+  },
+  {
+    "districtCode": 5107,
+    "districtNameTh": "บ้านธิ",
+    "districtNameEn": "Ban Thi",
+    "provinceCode": "51"
+  },
+  {
+    "districtCode": 5108,
+    "districtNameTh": "เวียงหนองล่อง",
+    "districtNameEn": "Wiang Nong Long",
+    "provinceCode": "51"
+  }
+]

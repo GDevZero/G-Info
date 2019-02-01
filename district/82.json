@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 8201,
+    "districtNameTh": "เมืองพังงา",
+    "districtNameEn": "Mueang Phang-nga",
+    "provinceCode": "82"
+  },
+  {
+    "districtCode": 8202,
+    "districtNameTh": "เกาะยาว",
+    "districtNameEn": "Ko Yao",
+    "provinceCode": "82"
+  },
+  {
+    "districtCode": 8203,
+    "districtNameTh": "กะปง",
+    "districtNameEn": "Kapong",
+    "provinceCode": "82"
+  },
+  {
+    "districtCode": 8204,
+    "districtNameTh": "ตะกั่วทุ่ง",
+    "districtNameEn": "Takua Thung",
+    "provinceCode": "82"
+  },
+  {
+    "districtCode": 8205,
+    "districtNameTh": "ตะกั่วป่า",
+    "districtNameEn": "Takua Pa",
+    "provinceCode": "82"
+  },
+  {
+    "districtCode": 8206,
+    "districtNameTh": "คุระบุรี",
+    "districtNameEn": "Khura Buri",
+    "provinceCode": "82"
+  },
+  {
+    "districtCode": 8207,
+    "districtNameTh": "ทับปุด",
+    "districtNameEn": "Thap Put",
+    "provinceCode": "82"
+  },
+  {
+    "districtCode": 8208,
+    "districtNameTh": "ท้ายเหมือง",
+    "districtNameEn": "Thai Mueang",
+    "provinceCode": "82"
+  }
+]

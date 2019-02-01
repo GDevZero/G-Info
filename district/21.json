@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 2102,
+    "districtNameTh": "บ้านฉาง",
+    "districtNameEn": "Ban Chang",
+    "provinceCode": "21"
+  },
+  {
+    "districtCode": 2103,
+    "districtNameTh": "แกลง",
+    "districtNameEn": "Klaeng",
+    "provinceCode": "21"
+  },
+  {
+    "districtCode": 2104,
+    "districtNameTh": "วังจันทร์",
+    "districtNameEn": "Wang Chan",
+    "provinceCode": "21"
+  },
+  {
+    "districtCode": 2105,
+    "districtNameTh": "บ้านค่าย",
+    "districtNameEn": "Ban Khai",
+    "provinceCode": "21"
+  },
+  {
+    "districtCode": 2106,
+    "districtNameTh": "ปลวกแดง",
+    "districtNameEn": "Pluak Daeng",
+    "provinceCode": "21"
+  },
+  {
+    "districtCode": 2107,
+    "districtNameTh": "เขาชะเมา",
+    "districtNameEn": "Khao Chamao",
+    "provinceCode": "21"
+  },
+  {
+    "districtCode": 2108,
+    "districtNameTh": "นิคมพัฒนา",
+    "districtNameEn": "Nikhom Phatthana",
+    "provinceCode": "21"
+  },
+  {
+    "districtCode": 2151,
+    "districtNameTh": "สาขาตำบลมาบข่า*",
+    "districtNameEn": null,
+    "provinceCode": "21"
+  }
+]

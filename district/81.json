@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 8101,
+    "districtNameTh": "เมืองกระบี่",
+    "districtNameEn": "Mueang Krabi",
+    "provinceCode": "81"
+  },
+  {
+    "districtCode": 8102,
+    "districtNameTh": "เขาพนม",
+    "districtNameEn": "Khao Phanom",
+    "provinceCode": "81"
+  },
+  {
+    "districtCode": 8103,
+    "districtNameTh": "เกาะลันตา",
+    "districtNameEn": "Ko Lanta",
+    "provinceCode": "81"
+  },
+  {
+    "districtCode": 8104,
+    "districtNameTh": "คลองท่อม",
+    "districtNameEn": "Khlong Thom",
+    "provinceCode": "81"
+  },
+  {
+    "districtCode": 8105,
+    "districtNameTh": "อ่าวลึก",
+    "districtNameEn": "Ao Luek",
+    "provinceCode": "81"
+  },
+  {
+    "districtCode": 8106,
+    "districtNameTh": "ปลายพระยา",
+    "districtNameEn": "Plai Phraya",
+    "provinceCode": "81"
+  },
+  {
+    "districtCode": 8107,
+    "districtNameTh": "ลำทับ",
+    "districtNameEn": "Lam Thap",
+    "provinceCode": "81"
+  },
+  {
+    "districtCode": 8108,
+    "districtNameTh": "เหนือคลอง",
+    "districtNameEn": "Nuea Khlong",
+    "provinceCode": "81"
+  }
+]

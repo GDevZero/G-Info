@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 1301,
+    "districtNameTh": "เมืองปทุมธานี",
+    "districtNameEn": "Mueang Pathum Thani",
+    "provinceCode": "13"
+  },
+  {
+    "districtCode": 1302,
+    "districtNameTh": "คลองหลวง",
+    "districtNameEn": "khlong Luang",
+    "provinceCode": "13"
+  },
+  {
+    "districtCode": 1303,
+    "districtNameTh": "ธัญบุรี",
+    "districtNameEn": "Thanyaburi",
+    "provinceCode": "13"
+  },
+  {
+    "districtCode": 1304,
+    "districtNameTh": "หนองเสือ",
+    "districtNameEn": "Nong Suea",
+    "provinceCode": "13"
+  },
+  {
+    "districtCode": 1305,
+    "districtNameTh": "ลาดหลุมแก้ว",
+    "districtNameEn": "Lat Lum Kaeo",
+    "provinceCode": "13"
+  },
+  {
+    "districtCode": 1306,
+    "districtNameTh": "ลำลูกกา",
+    "districtNameEn": "Lam Luk Ka",
+    "provinceCode": "13"
+  },
+  {
+    "districtCode": 1307,
+    "districtNameTh": "สามโคก",
+    "districtNameEn": "Sam Khok",
+    "provinceCode": "13"
+  },
+  {
+    "districtCode": 1351,
+    "districtNameTh": "ลำลูกกา (สาขาตำบลคูคต)*",
+    "districtNameEn": null,
+    "provinceCode": "13"
+  }
+]

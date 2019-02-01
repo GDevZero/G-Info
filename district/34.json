@@ -1,0 +1,206 @@
+[
+  {
+    "districtCode": 3401,
+    "districtNameTh": "เมืองอุบลราชธานี",
+    "districtNameEn": "Mueang Ubon Ratchathani",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3402,
+    "districtNameTh": "ศรีเมืองใหม่",
+    "districtNameEn": "Si Mueang Mai",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3403,
+    "districtNameTh": "โขงเจียม",
+    "districtNameEn": "Khong Chiam",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3404,
+    "districtNameTh": "เขื่องใน",
+    "districtNameEn": "Khueang Nai",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3405,
+    "districtNameTh": "เขมราฐ",
+    "districtNameEn": "Khemarat",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3407,
+    "districtNameTh": "เดชอุดม",
+    "districtNameEn": "Det Udom",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3408,
+    "districtNameTh": "นาจะหลวย",
+    "districtNameEn": "Na Chaluai",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3409,
+    "districtNameTh": "น้ำยืน",
+    "districtNameEn": "Nam Yuen",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3410,
+    "districtNameTh": "บุณฑริก",
+    "districtNameEn": "Boontharik",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3411,
+    "districtNameTh": "ตระการพืชผล",
+    "districtNameEn": "Trakan Phuet Phon",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3412,
+    "districtNameTh": "กุดข้าวปุ้น",
+    "districtNameEn": "Kut Khaopun",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3414,
+    "districtNameTh": "ม่วงสามสิบ",
+    "districtNameEn": "Muang Sam Sip",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3415,
+    "districtNameTh": "วารินชำราบ",
+    "districtNameEn": "Warin Chamrap",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3419,
+    "districtNameTh": "พิบูลมังสาหาร",
+    "districtNameEn": "Phibun Mangsahan",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3420,
+    "districtNameTh": "ตาลสุม",
+    "districtNameEn": "Tan Sum",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3421,
+    "districtNameTh": "โพธิ์ไทร",
+    "districtNameEn": "Pho Sai",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3422,
+    "districtNameTh": "สำโรง",
+    "districtNameEn": "Samrong",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3424,
+    "districtNameTh": "ดอนมดแดง",
+    "districtNameEn": "Don Mot Daeng",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3425,
+    "districtNameTh": "สิรินธร",
+    "districtNameEn": "Sirindhorn",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3426,
+    "districtNameTh": "ทุ่งศรีอุดม",
+    "districtNameEn": "Thung Si Udom",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3429,
+    "districtNameTh": "นาเยีย",
+    "districtNameEn": "Na Yia",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3430,
+    "districtNameTh": "นาตาล",
+    "districtNameEn": "Na Tan",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3431,
+    "districtNameTh": "เหล่าเสือโก้ก",
+    "districtNameEn": "Lao Suea Kok",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3432,
+    "districtNameTh": "สว่างวีระวงศ์",
+    "districtNameEn": "Sawang Wirawong",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3433,
+    "districtNameTh": "น้ำขุ่น",
+    "districtNameEn": "Nam Khun",
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3406,
+    "districtNameTh": "ชานุมาน*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3413,
+    "districtNameTh": "พนา*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3416,
+    "districtNameTh": "อำนาจเจริญ*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3417,
+    "districtNameTh": "เสนางคนิคม*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3418,
+    "districtNameTh": "หัวตะพาน*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3423,
+    "districtNameTh": "กิ่งอำเภอลืออำนาจ*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3427,
+    "districtNameTh": "ปทุมราชวงศา*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3428,
+    "districtNameTh": "กิ่งอำเภอศรีหลักชัย*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  },
+  {
+    "districtCode": 3481,
+    "districtNameTh": "อ.สุวรรณวารี\tจ.อุบลราชธานี*",
+    "districtNameEn": null,
+    "provinceCode": "34"
+  }
+]

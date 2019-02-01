@@ -1,0 +1,68 @@
+[
+  {
+    "districtCode": 9201,
+    "districtNameTh": "เมืองตรัง",
+    "districtNameEn": "Mueang Trang",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9202,
+    "districtNameTh": "กันตัง",
+    "districtNameEn": "Kantang",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9203,
+    "districtNameTh": "ย่านตาขาว",
+    "districtNameEn": "Yan Ta Khao",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9204,
+    "districtNameTh": "ปะเหลียน",
+    "districtNameEn": "Palian",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9205,
+    "districtNameTh": "สิเกา",
+    "districtNameEn": "Sikao",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9206,
+    "districtNameTh": "ห้วยยอด",
+    "districtNameEn": "Huai Yot",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9207,
+    "districtNameTh": "วังวิเศษ",
+    "districtNameEn": "Wang Wiset",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9208,
+    "districtNameTh": "นาโยง",
+    "districtNameEn": "Na Yong",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9209,
+    "districtNameTh": "รัษฎา",
+    "districtNameEn": "Ratsada",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9210,
+    "districtNameTh": "หาดสำราญ",
+    "districtNameEn": "Hat Samran",
+    "provinceCode": "92"
+  },
+  {
+    "districtCode": 9251,
+    "districtNameTh": "อำเภอเมืองตรัง(สาขาคลองเต็ง)*",
+    "districtNameEn": null,
+    "provinceCode": "92"
+  }
+]

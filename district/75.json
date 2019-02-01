@@ -1,0 +1,20 @@
+[
+  {
+    "districtCode": 7501,
+    "districtNameTh": "เมืองสมุทรสงคราม",
+    "districtNameEn": "Mueang Samut Songkhram",
+    "provinceCode": "75"
+  },
+  {
+    "districtCode": 7502,
+    "districtNameTh": "บางคนที",
+    "districtNameEn": "Bang Khonthi",
+    "provinceCode": "75"
+  },
+  {
+    "districtCode": 7503,
+    "districtNameTh": "อัมพวา",
+    "districtNameEn": "Amphawa",
+    "provinceCode": "75"
+  }
+]

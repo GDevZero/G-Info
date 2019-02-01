@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 9501,
+    "districtNameTh": "เมืองยะลา",
+    "districtNameEn": "Mueang Yala",
+    "provinceCode": "95"
+  },
+  {
+    "districtCode": 9502,
+    "districtNameTh": "เบตง",
+    "districtNameEn": "Betong",
+    "provinceCode": "95"
+  },
+  {
+    "districtCode": 9503,
+    "districtNameTh": "บันนังสตา",
+    "districtNameEn": "Bannang Sata",
+    "provinceCode": "95"
+  },
+  {
+    "districtCode": 9504,
+    "districtNameTh": "ธารโต",
+    "districtNameEn": "Than To",
+    "provinceCode": "95"
+  },
+  {
+    "districtCode": 9505,
+    "districtNameTh": "ยะหา",
+    "districtNameEn": "Yaha",
+    "provinceCode": "95"
+  },
+  {
+    "districtCode": 9506,
+    "districtNameTh": "รามัน",
+    "districtNameEn": "Raman",
+    "provinceCode": "95"
+  },
+  {
+    "districtCode": 9507,
+    "districtNameTh": "กาบัง",
+    "districtNameEn": "Kabang",
+    "provinceCode": "95"
+  },
+  {
+    "districtCode": 9508,
+    "districtNameTh": "กรงปีนัง",
+    "districtNameEn": "Krong Pinang",
+    "provinceCode": "95"
+  }
+]

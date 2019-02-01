@@ -1,0 +1,38 @@
+[
+  {
+    "districtCode": 3901,
+    "districtNameTh": "เมืองหนองบัวลำภู",
+    "districtNameEn": "Mueang Nong Bua Lam Phu",
+    "provinceCode": "39"
+  },
+  {
+    "districtCode": 3902,
+    "districtNameTh": "นากลาง",
+    "districtNameEn": "Na Klang",
+    "provinceCode": "39"
+  },
+  {
+    "districtCode": 3903,
+    "districtNameTh": "โนนสัง",
+    "districtNameEn": "Non Sang",
+    "provinceCode": "39"
+  },
+  {
+    "districtCode": 3904,
+    "districtNameTh": "ศรีบุญเรือง",
+    "districtNameEn": "Si Bun Rueang",
+    "provinceCode": "39"
+  },
+  {
+    "districtCode": 3905,
+    "districtNameTh": "สุวรรณคูหา",
+    "districtNameEn": "Suwannakhuha",
+    "provinceCode": "39"
+  },
+  {
+    "districtCode": 3906,
+    "districtNameTh": "นาวัง",
+    "districtNameEn": "Na Wang",
+    "provinceCode": "39"
+  }
+]

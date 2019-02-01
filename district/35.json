@@ -1,0 +1,56 @@
+[
+  {
+    "districtCode": 3501,
+    "districtNameTh": "เมืองยโสธร",
+    "districtNameEn": "Mueang Yasothon",
+    "provinceCode": "35"
+  },
+  {
+    "districtCode": 3502,
+    "districtNameTh": "ทรายมูล",
+    "districtNameEn": "Sai Mun",
+    "provinceCode": "35"
+  },
+  {
+    "districtCode": 3503,
+    "districtNameTh": "กุดชุม",
+    "districtNameEn": "Kut Chum",
+    "provinceCode": "35"
+  },
+  {
+    "districtCode": 3504,
+    "districtNameTh": "คำเขื่อนแก้ว",
+    "districtNameEn": "Kham Khuean Kaeo",
+    "provinceCode": "35"
+  },
+  {
+    "districtCode": 3505,
+    "districtNameTh": "ป่าติ้ว",
+    "districtNameEn": "Pa Tio",
+    "provinceCode": "35"
+  },
+  {
+    "districtCode": 3506,
+    "districtNameTh": "มหาชนะชัย",
+    "districtNameEn": "Maha Chana Chai",
+    "provinceCode": "35"
+  },
+  {
+    "districtCode": 3507,
+    "districtNameTh": "ค้อวัง",
+    "districtNameEn": "Kho Wang",
+    "provinceCode": "35"
+  },
+  {
+    "districtCode": 3508,
+    "districtNameTh": "เลิงนกทา",
+    "districtNameEn": "Loeng Nok Tha",
+    "provinceCode": "35"
+  },
+  {
+    "districtCode": 3509,
+    "districtNameTh": "ไทยเจริญ",
+    "districtNameEn": "Thai Charoen",
+    "provinceCode": "35"
+  }
+]

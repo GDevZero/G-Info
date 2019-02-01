@@ -1,0 +1,92 @@
+[
+  {
+    "districtCode": 2001,
+    "districtNameTh": "เมืองชลบุรี",
+    "districtNameEn": "Mueang Chon Buri",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2002,
+    "districtNameTh": "บ้านบึง",
+    "districtNameEn": "Ban Bueng",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2003,
+    "districtNameTh": "หนองใหญ่",
+    "districtNameEn": "Nong Yai",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2004,
+    "districtNameTh": "บางละมุง",
+    "districtNameEn": "Bang Lamung",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2005,
+    "districtNameTh": "พานทอง",
+    "districtNameEn": "Phan Thong",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2006,
+    "districtNameTh": "พนัสนิคม",
+    "districtNameEn": "Phanat Nikhom",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2007,
+    "districtNameTh": "ศรีราชา",
+    "districtNameEn": "Si Racha",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2008,
+    "districtNameTh": "เกาะสีชัง",
+    "districtNameEn": "Ko Sichang",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2009,
+    "districtNameTh": "สัตหีบ",
+    "districtNameEn": "Sattahip",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2010,
+    "districtNameTh": "บ่อทอง",
+    "districtNameEn": "Bo Thong",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2011,
+    "districtNameTh": "เกาะจันทร์",
+    "districtNameEn": "Ko Chan",
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2051,
+    "districtNameTh": "สัตหีบ (สาขาตำบลบางเสร่)*",
+    "districtNameEn": null,
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2072,
+    "districtNameTh": "ท้องถิ่นเทศบาลเมืองหนองปรือ*",
+    "districtNameEn": null,
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2093,
+    "districtNameTh": "เทศบาลตำบลแหลมฉบัง*",
+    "districtNameEn": null,
+    "provinceCode": "20"
+  },
+  {
+    "districtCode": 2099,
+    "districtNameTh": "เทศบาลเมืองชลบุรี*",
+    "districtNameEn": null,
+    "provinceCode": "20"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "districtCode": 1602,
+    "districtNameTh": "พัฒนานิคม",
+    "districtNameEn": "Phatthana Nikhom",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1603,
+    "districtNameTh": "โคกสำโรง",
+    "districtNameEn": "Khok Samrong",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1604,
+    "districtNameTh": "ชัยบาดาล",
+    "districtNameEn": "Chai Badan",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1605,
+    "districtNameTh": "ท่าวุ้ง",
+    "districtNameEn": "Tha Wung",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1606,
+    "districtNameTh": "บ้านหมี่",
+    "districtNameEn": "Ban Mi",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1607,
+    "districtNameTh": "ท่าหลวง",
+    "districtNameEn": "Tha Luang",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1608,
+    "districtNameTh": "สระโบสถ์",
+    "districtNameEn": "Sa Bot",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1609,
+    "districtNameTh": "โคกเจริญ",
+    "districtNameEn": "Khok Charoen",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1610,
+    "districtNameTh": "ลำสนธิ",
+    "districtNameEn": "Lam Sonthi",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1611,
+    "districtNameTh": "หนองม่วง",
+    "districtNameEn": "Nong Muang",
+    "provinceCode": "16"
+  },
+  {
+    "districtCode": 1681,
+    "districtNameTh": "อ.บ้านเช่า  จ.ลพบุรี*",
+    "districtNameEn": null,
+    "provinceCode": "16"
+  }
+]

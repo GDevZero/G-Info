@@ -1,0 +1,80 @@
+[
+  {
+    "districtCode": 2501,
+    "districtNameTh": "เมืองปราจีนบุรี",
+    "districtNameEn": "Mueang Prachin Buri",
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2502,
+    "districtNameTh": "กบินทร์บุรี",
+    "districtNameEn": "Kabin Buri",
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2503,
+    "districtNameTh": "นาดี",
+    "districtNameEn": "Na Di",
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2506,
+    "districtNameTh": "บ้านสร้าง",
+    "districtNameEn": "Ban Sang",
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2507,
+    "districtNameTh": "ประจันตคาม",
+    "districtNameEn": "Prachantakham",
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2508,
+    "districtNameTh": "ศรีมหาโพธิ",
+    "districtNameEn": "Si Maha Phot",
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2509,
+    "districtNameTh": "ศรีมโหสถ",
+    "districtNameEn": "Si Mahosot",
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2504,
+    "districtNameTh": "สระแก้ว*",
+    "districtNameEn": null,
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2505,
+    "districtNameTh": "วังน้ำเย็น*",
+    "districtNameEn": null,
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2510,
+    "districtNameTh": "อรัญประเทศ*",
+    "districtNameEn": null,
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2511,
+    "districtNameTh": "ตาพระยา*",
+    "districtNameEn": null,
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2512,
+    "districtNameTh": "วัฒนานคร*",
+    "districtNameEn": null,
+    "provinceCode": "25"
+  },
+  {
+    "districtCode": 2513,
+    "districtNameTh": "คลองหาด*",
+    "districtNameEn": null,
+    "provinceCode": "25"
+  }
+]

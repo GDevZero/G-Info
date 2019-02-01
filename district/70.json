@@ -1,0 +1,68 @@
+[
+  {
+    "districtCode": 7001,
+    "districtNameTh": "เมืองราชบุรี",
+    "districtNameEn": "Mueang Ratchaburi",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7002,
+    "districtNameTh": "จอมบึง",
+    "districtNameEn": "Chom Bueng",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7003,
+    "districtNameTh": "สวนผึ้ง",
+    "districtNameEn": "Suan Phueng",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7004,
+    "districtNameTh": "ดำเนินสะดวก",
+    "districtNameEn": "Damnoen Saduak",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7005,
+    "districtNameTh": "บ้านโป่ง",
+    "districtNameEn": "Ban Pong",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7006,
+    "districtNameTh": "บางแพ",
+    "districtNameEn": "Bang Phae",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7007,
+    "districtNameTh": "โพธาราม",
+    "districtNameEn": "Photharam",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7008,
+    "districtNameTh": "ปากท่อ",
+    "districtNameEn": "Pak Tho",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7009,
+    "districtNameTh": "วัดเพลง",
+    "districtNameEn": "Wat Phleng",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7010,
+    "districtNameTh": "บ้านคา",
+    "districtNameEn": "Ban Kha",
+    "provinceCode": "70"
+  },
+  {
+    "districtCode": 7074,
+    "districtNameTh": "ท้องถิ่นเทศบาลตำบลบ้านฆ้อง*",
+    "districtNameEn": null,
+    "provinceCode": "70"
+  }
+]

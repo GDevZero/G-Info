@@ -1,0 +1,26 @@
+[
+  {
+    "districtCode": 8301,
+    "districtNameTh": "เมืองภูเก็ต",
+    "districtNameEn": "Mueang Phuket",
+    "provinceCode": "83"
+  },
+  {
+    "districtCode": 8302,
+    "districtNameTh": "กะทู้",
+    "districtNameEn": "Kathu",
+    "provinceCode": "83"
+  },
+  {
+    "districtCode": 8303,
+    "districtNameTh": "ถลาง",
+    "districtNameEn": "Thalang",
+    "provinceCode": "83"
+  },
+  {
+    "districtCode": 8381,
+    "districtNameTh": "ทุ่งคา*",
+    "districtNameEn": null,
+    "provinceCode": "83"
+  }
+]

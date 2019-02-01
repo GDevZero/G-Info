@@ -1,0 +1,152 @@
+[
+  {
+    "districtCode": 3601,
+    "districtNameTh": "เมืองชัยภูมิ",
+    "districtNameEn": "Mueang Chaiyaphum",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3602,
+    "districtNameTh": "บ้านเขว้า",
+    "districtNameEn": "Ban Khwao",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3603,
+    "districtNameTh": "คอนสวรรค์",
+    "districtNameEn": "Khon Sawan",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3604,
+    "districtNameTh": "เกษตรสมบูรณ์",
+    "districtNameEn": "Kaset Sombun",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3605,
+    "districtNameTh": "หนองบัวแดง",
+    "districtNameEn": "Nong Bua Daeng",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3606,
+    "districtNameTh": "จัตุรัส",
+    "districtNameEn": "Chatturat",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3607,
+    "districtNameTh": "บำเหน็จณรงค์",
+    "districtNameEn": "Bamnet Narong",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3608,
+    "districtNameTh": "หนองบัวระเหว",
+    "districtNameEn": "Nong Bua Rawe",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3609,
+    "districtNameTh": "เทพสถิต",
+    "districtNameEn": "Thep Sathit",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3610,
+    "districtNameTh": "ภูเขียว",
+    "districtNameEn": "Phu Khiao",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3611,
+    "districtNameTh": "บ้านแท่น",
+    "districtNameEn": "Ban Thaen",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3612,
+    "districtNameTh": "แก้งคร้อ",
+    "districtNameEn": "Kaeng Khro",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3613,
+    "districtNameTh": "คอนสาร",
+    "districtNameEn": "Khon San",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3614,
+    "districtNameTh": "ภักดีชุมพล",
+    "districtNameEn": "Phakdi Chumphon",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3615,
+    "districtNameTh": "เนินสง่า",
+    "districtNameEn": "Noen Sa-nga",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3616,
+    "districtNameTh": "ซับใหญ่",
+    "districtNameEn": "Sap Yai",
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3651,
+    "districtNameTh": "เมืองชัยภูมิ (สาขาตำบลโนนสำราญ)*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3652,
+    "districtNameTh": "สาขาตำบลบ้านหว่าเฒ่า*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3653,
+    "districtNameTh": "หนองบัวแดง (สาขาตำบลวังชมภู)*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3654,
+    "districtNameTh": "กิ่งอำเภอซับใหญ่ (สาขาตำบลซับใหญ่)*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3655,
+    "districtNameTh": "สาขาตำบลโคกเพชร*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3656,
+    "districtNameTh": "เทพสถิต (สาขาตำบลนายางกลัก)*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3657,
+    "districtNameTh": "บ้านแท่น (สาขาตำบลบ้านเต่า)*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3658,
+    "districtNameTh": "แก้งคร้อ (สาขาตำบลท่ามะไฟหวาน)*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  },
+  {
+    "districtCode": 3659,
+    "districtNameTh": "คอนสาร (สาขาตำบลโนนคูณ)*",
+    "districtNameEn": null,
+    "provinceCode": "36"
+  }
+]

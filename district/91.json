@@ -1,0 +1,44 @@
+[
+  {
+    "districtCode": 9101,
+    "districtNameTh": "เมืองสตูล",
+    "districtNameEn": "Mueang Satun",
+    "provinceCode": "91"
+  },
+  {
+    "districtCode": 9102,
+    "districtNameTh": "ควนโดน",
+    "districtNameEn": "Khuan Don",
+    "provinceCode": "91"
+  },
+  {
+    "districtCode": 9103,
+    "districtNameTh": "ควนกาหลง",
+    "districtNameEn": "Khuan Kalong",
+    "provinceCode": "91"
+  },
+  {
+    "districtCode": 9104,
+    "districtNameTh": "ท่าแพ",
+    "districtNameEn": "Tha Phae",
+    "provinceCode": "91"
+  },
+  {
+    "districtCode": 9105,
+    "districtNameTh": "ละงู",
+    "districtNameEn": "La-ngu",
+    "provinceCode": "91"
+  },
+  {
+    "districtCode": 9106,
+    "districtNameTh": "ทุ่งหว้า",
+    "districtNameEn": "Thung  Wa",
+    "provinceCode": "91"
+  },
+  {
+    "districtCode": 9107,
+    "districtNameTh": "มะนัง",
+    "districtNameEn": "Manang",
+    "provinceCode": "91"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "districtCode": 7401,
+    "districtNameTh": "เมืองสมุทรสาคร",
+    "districtNameEn": "Mueang Samut Sakhon",
+    "provinceCode": "74"
+  },
+  {
+    "districtCode": 7402,
+    "districtNameTh": "กระทุ่มแบน",
+    "districtNameEn": "Krathum Baen",
+    "provinceCode": "74"
+  },
+  {
+    "districtCode": 7403,
+    "districtNameTh": "บ้านแพ้ว",
+    "districtNameEn": "Ban Phaeo",
+    "provinceCode": "74"
+  }
+]

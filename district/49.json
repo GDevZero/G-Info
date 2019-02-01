@@ -1,0 +1,44 @@
+[
+  {
+    "districtCode": 4901,
+    "districtNameTh": "เมืองมุกดาหาร",
+    "districtNameEn": "Mueang Mukdahan",
+    "provinceCode": "49"
+  },
+  {
+    "districtCode": 4902,
+    "districtNameTh": "นิคมคำสร้อย",
+    "districtNameEn": "Nikhom Kham Soi",
+    "provinceCode": "49"
+  },
+  {
+    "districtCode": 4903,
+    "districtNameTh": "ดอนตาล",
+    "districtNameEn": "Don Tan",
+    "provinceCode": "49"
+  },
+  {
+    "districtCode": 4904,
+    "districtNameTh": "ดงหลวง",
+    "districtNameEn": "Don Tan",
+    "provinceCode": "49"
+  },
+  {
+    "districtCode": 4905,
+    "districtNameTh": "คำชะอี",
+    "districtNameEn": "Khamcha-i",
+    "provinceCode": "49"
+  },
+  {
+    "districtCode": 4906,
+    "districtNameTh": "ว่านใหญ่",
+    "districtNameEn": "Wan Yai",
+    "provinceCode": "49"
+  },
+  {
+    "districtCode": 4907,
+    "districtNameTh": "หนองสูง",
+    "districtNameEn": "Nong Sung",
+    "provinceCode": "49"
+  }
+]

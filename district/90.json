@@ -1,0 +1,110 @@
+[
+  {
+    "districtCode": 9001,
+    "districtNameTh": "เมืองสงขลา",
+    "districtNameEn": "Muaeng Songkhla",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9002,
+    "districtNameTh": "สทิงพระ",
+    "districtNameEn": "Sathing Phra",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9003,
+    "districtNameTh": "จะนะ",
+    "districtNameEn": "Chana",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9004,
+    "districtNameTh": "นาทวี",
+    "districtNameEn": "Na Thawi",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9005,
+    "districtNameTh": "เทพา",
+    "districtNameEn": "Thepha",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9006,
+    "districtNameTh": "สะบ้าย้อย",
+    "districtNameEn": "Saba Yoi",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9007,
+    "districtNameTh": "ระโนด",
+    "districtNameEn": "Ranot",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9008,
+    "districtNameTh": "กระแสสินธุ์",
+    "districtNameEn": "Krasae Sin",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9009,
+    "districtNameTh": "รัตภูมิ",
+    "districtNameEn": "Rattaphum",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9010,
+    "districtNameTh": "สะเดา",
+    "districtNameEn": "Sadao",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9011,
+    "districtNameTh": "หาดใหญ่",
+    "districtNameEn": "Hat Yai",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9012,
+    "districtNameTh": "นาหม่อม",
+    "districtNameEn": "Na Mom",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9013,
+    "districtNameTh": "ควนเนียง",
+    "districtNameEn": "Khuan Niang",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9014,
+    "districtNameTh": "บางกล่ำ",
+    "districtNameEn": "Bang Klam",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9015,
+    "districtNameTh": "สิงหนคร",
+    "districtNameEn": "Singhanakhon",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9016,
+    "districtNameTh": "คลองหอยโข่ง",
+    "districtNameEn": "Khlong Hoi Khong",
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9077,
+    "districtNameTh": "ท้องถิ่นเทศบาลตำบลสำนักขาม*",
+    "districtNameEn": null,
+    "provinceCode": "90"
+  },
+  {
+    "districtCode": 9096,
+    "districtNameTh": "เทศบาลตำบลบ้านพรุ*",
+    "districtNameEn": null,
+    "provinceCode": "90"
+  }
+]

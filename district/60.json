@@ -1,0 +1,110 @@
+[
+  {
+    "districtCode": 6001,
+    "districtNameTh": "เมืองนครสวรรค์",
+    "districtNameEn": "Mueang Nakhon Sawan",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6002,
+    "districtNameTh": "โกรกพระ",
+    "districtNameEn": "Krok Phra",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6003,
+    "districtNameTh": "ชุมแสง",
+    "districtNameEn": "Chum Saeng",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6004,
+    "districtNameTh": "หนองบัว",
+    "districtNameEn": "Nong Bua",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6005,
+    "districtNameTh": "บรรพตพิสัย",
+    "districtNameEn": "Banphot Phisai",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6006,
+    "districtNameTh": "เก้าเลี้ยว",
+    "districtNameEn": "Kao Liao",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6007,
+    "districtNameTh": "ตาคลี",
+    "districtNameEn": "Takhli",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6008,
+    "districtNameTh": "ท่าตะโก",
+    "districtNameEn": "Tha Tako",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6009,
+    "districtNameTh": "ไพศาลี",
+    "districtNameEn": "Phaisali",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6010,
+    "districtNameTh": "พยุหะคีรี",
+    "districtNameEn": "Phayuha Hkiri",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6011,
+    "districtNameTh": "ลาดยาว",
+    "districtNameEn": "Lat Yao",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6012,
+    "districtNameTh": "ตากฟ้า",
+    "districtNameEn": "Tak Fa",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6013,
+    "districtNameTh": "แม่วงก์",
+    "districtNameEn": "Mae Wong",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6014,
+    "districtNameTh": "แม่เปิน",
+    "districtNameEn": "Mae Pern",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6015,
+    "districtNameTh": "ชุมตาบง",
+    "districtNameEn": "Chum Ta Bong",
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6051,
+    "districtNameTh": "สาขาตำบลห้วยน้ำหอม*",
+    "districtNameEn": null,
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6052,
+    "districtNameTh": "กิ่งอำเภอชุมตาบง (สาขาตำบลชุมตาบง)*",
+    "districtNameEn": null,
+    "provinceCode": "60"
+  },
+  {
+    "districtCode": 6053,
+    "districtNameTh": "แม่วงก์ (สาขาตำบลแม่เล่ย์)*",
+    "districtNameEn": null,
+    "provinceCode": "60"
+  }
+]

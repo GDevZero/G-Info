@@ -1,0 +1,56 @@
+[
+  {
+    "districtCode": 5301,
+    "districtNameTh": "เมืองอุตรดิตถ์",
+    "districtNameEn": "Mueang Uttaradit",
+    "provinceCode": "53"
+  },
+  {
+    "districtCode": 5302,
+    "districtNameTh": "ตรอน",
+    "districtNameEn": "Tron",
+    "provinceCode": "53"
+  },
+  {
+    "districtCode": 5303,
+    "districtNameTh": "ท่าปลา",
+    "districtNameEn": "Tha Pla",
+    "provinceCode": "53"
+  },
+  {
+    "districtCode": 5304,
+    "districtNameTh": "น้ำปาด",
+    "districtNameEn": "Nam Pat",
+    "provinceCode": "53"
+  },
+  {
+    "districtCode": 5305,
+    "districtNameTh": "ฟากท่า",
+    "districtNameEn": "Fak Tha",
+    "provinceCode": "53"
+  },
+  {
+    "districtCode": 5306,
+    "districtNameTh": "บ้านโคก",
+    "districtNameEn": "Ban Khok",
+    "provinceCode": "53"
+  },
+  {
+    "districtCode": 5307,
+    "districtNameTh": "พิชัย",
+    "districtNameEn": "Phichai",
+    "provinceCode": "53"
+  },
+  {
+    "districtCode": 5308,
+    "districtNameTh": "ลับแล",
+    "districtNameEn": "Laplae",
+    "provinceCode": "53"
+  },
+  {
+    "districtCode": 5309,
+    "districtNameTh": "ทองแสนขัน",
+    "districtNameEn": "Thong Saen Khan",
+    "provinceCode": "53"
+  }
+]

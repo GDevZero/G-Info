@@ -1,0 +1,212 @@
+[
+  {
+    "districtCode": 3001,
+    "districtNameTh": "เมืองนครราชสีมา",
+    "districtNameEn": "Mueang Nakhon Ratchasima",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3002,
+    "districtNameTh": "ครบุรี",
+    "districtNameEn": "Khon Buri",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3003,
+    "districtNameTh": "เสิงสาง",
+    "districtNameEn": "Soeng Sang",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3004,
+    "districtNameTh": "คง",
+    "districtNameEn": "Khong",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3005,
+    "districtNameTh": "บ้านเหลื่อม",
+    "districtNameEn": "Ban Lueam",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3006,
+    "districtNameTh": "จักราช",
+    "districtNameEn": "Chakkarat",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3007,
+    "districtNameTh": "โชคชัย",
+    "districtNameEn": "Chok Chai",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3008,
+    "districtNameTh": "ด่านขุนทด",
+    "districtNameEn": "Dan Khun Thot",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3009,
+    "districtNameTh": "โนนไทย",
+    "districtNameEn": "Non Thai",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3010,
+    "districtNameTh": "โนนสูง",
+    "districtNameEn": "Non Sung",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3011,
+    "districtNameTh": "ขามสะแกแสง",
+    "districtNameEn": "Kham Sakaesaeng",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3012,
+    "districtNameTh": "บัวใหญ่",
+    "districtNameEn": "Bua Yai",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3013,
+    "districtNameTh": "ประทาย",
+    "districtNameEn": "Prathai",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3014,
+    "districtNameTh": "ปักธงชัย",
+    "districtNameEn": "Pak Thong Chai",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3015,
+    "districtNameTh": "พิมาย",
+    "districtNameEn": "Phimai",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3016,
+    "districtNameTh": "ห้วยแถลง",
+    "districtNameEn": "Huai Thalaeng",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3017,
+    "districtNameTh": "ชุมพวง",
+    "districtNameEn": "Chum Phuang",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3018,
+    "districtNameTh": "สูงเนิน",
+    "districtNameEn": "Sung Noen",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3019,
+    "districtNameTh": "ขามทะเลสอ",
+    "districtNameEn": "Kham Thale So",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3020,
+    "districtNameTh": "สีคิ้ว",
+    "districtNameEn": "Si Khio",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3021,
+    "districtNameTh": "ปากช่อง",
+    "districtNameEn": "Pak Chong",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3022,
+    "districtNameTh": "หนองบุญมาก",
+    "districtNameEn": "Nong Bunmak",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3023,
+    "districtNameTh": "แก้งสนามนาง",
+    "districtNameEn": "Kaeng Sanam Nang",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3024,
+    "districtNameTh": "โนนแดง",
+    "districtNameEn": "Non Daeng",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3025,
+    "districtNameTh": "วังน้ำเขียว",
+    "districtNameEn": "Wang Nam Khiao",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3026,
+    "districtNameTh": "เทพารักษ์",
+    "districtNameEn": "Thepharak",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3027,
+    "districtNameTh": "เมืองยาง",
+    "districtNameEn": "Mueang Yang",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3028,
+    "districtNameTh": "พระทองคำ",
+    "districtNameEn": "Phra Thong Kham",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3029,
+    "districtNameTh": "ลำทะเมนชัย",
+    "districtNameEn": "Lamtaman Chai",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3030,
+    "districtNameTh": "บัวลาย",
+    "districtNameEn": "Bua Lai",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3031,
+    "districtNameTh": "สีดา",
+    "districtNameEn": "Sida",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3032,
+    "districtNameTh": "เฉลิมพระเกียรติ",
+    "districtNameEn": "Chaloem Phra Kiet",
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3049,
+    "districtNameTh": "ท้องถิ่นเทศบาลตำบลโพธิ์กลาง*",
+    "districtNameEn": null,
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3051,
+    "districtNameTh": "สาขาตำบลมะค่า-พลสงคราม*",
+    "districtNameEn": null,
+    "provinceCode": "30"
+  },
+  {
+    "districtCode": 3081,
+    "districtNameTh": "โนนลาว*",
+    "districtNameEn": null,
+    "provinceCode": "30"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "districtCode": 7701,
+    "districtNameTh": "เมืองประจวบคีรีขันธ์",
+    "districtNameEn": "Mueang Prachuap Khiri Khan",
+    "provinceCode": "77"
+  },
+  {
+    "districtCode": 7702,
+    "districtNameTh": "กุยบุรี",
+    "districtNameEn": "Kui Buri",
+    "provinceCode": "77"
+  },
+  {
+    "districtCode": 7703,
+    "districtNameTh": "ทับสะแก",
+    "districtNameEn": "Thap Sakae",
+    "provinceCode": "77"
+  },
+  {
+    "districtCode": 7704,
+    "districtNameTh": "บางสะพาน",
+    "districtNameEn": "Bang Saphan",
+    "provinceCode": "77"
+  },
+  {
+    "districtCode": 7705,
+    "districtNameTh": "บางสะพานน้อย",
+    "districtNameEn": "Bang Saphan Noi",
+    "provinceCode": "77"
+  },
+  {
+    "districtCode": 7706,
+    "districtNameTh": "ปราณบุรี",
+    "districtNameEn": "Pran Buri",
+    "provinceCode": "77"
+  },
+  {
+    "districtCode": 7707,
+    "districtNameTh": "หัวหิน",
+    "districtNameEn": "Hua Hin",
+    "provinceCode": "77"
+  },
+  {
+    "districtCode": 7708,
+    "districtNameTh": "สามร้อยยอด",
+    "districtNameEn": "Sam Roi Yot",
+    "provinceCode": "77"
+  }
+]

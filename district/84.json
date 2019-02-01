@@ -1,0 +1,128 @@
+[
+  {
+    "districtCode": 8401,
+    "districtNameTh": "เมืองสุราษฎร์ธานี",
+    "districtNameEn": "Mueang Surat Thani",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8402,
+    "districtNameTh": "กาญจนดิษฐ์",
+    "districtNameEn": "Kanchanadit",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8403,
+    "districtNameTh": "ดอนสัก",
+    "districtNameEn": "Don Sak",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8404,
+    "districtNameTh": "เกาะสมุย",
+    "districtNameEn": "Ko Samui",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8405,
+    "districtNameTh": "เกาะพะงัน",
+    "districtNameEn": "Ko Pha-ngan",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8406,
+    "districtNameTh": "ไชยา",
+    "districtNameEn": "Chaiya",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8407,
+    "districtNameTh": "ท่าชนะ",
+    "districtNameEn": "Tha Chana",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8408,
+    "districtNameTh": "คีรีรัฐนิคม",
+    "districtNameEn": "Khiri Rat Nikhom",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8409,
+    "districtNameTh": "บ้านตาขุน",
+    "districtNameEn": "Ban Ta Khun",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8410,
+    "districtNameTh": "พนม",
+    "districtNameEn": "Phanom",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8411,
+    "districtNameTh": "ท่าฉาง",
+    "districtNameEn": "Tha Chang",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8412,
+    "districtNameTh": "บ้านนาสาร",
+    "districtNameEn": "Ban Na San",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8413,
+    "districtNameTh": "บ้านนาเดิม",
+    "districtNameEn": "Ban Na Doem",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8414,
+    "districtNameTh": "เคียนซา",
+    "districtNameEn": "Khian Sa",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8415,
+    "districtNameTh": "เวียงสระ",
+    "districtNameEn": "Wiang Sa",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8416,
+    "districtNameTh": "พระแสง",
+    "districtNameEn": "Phrasaeng",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8417,
+    "districtNameTh": "พุนพิน",
+    "districtNameEn": "Phunphin",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8418,
+    "districtNameTh": "ชัยบุรี",
+    "districtNameEn": "Chai Buri",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8419,
+    "districtNameTh": "วิภาวดี",
+    "districtNameEn": "Chai Buri",
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8451,
+    "districtNameTh": "เกาะพงัน (สาขาตำบลเกาะเต่า)*",
+    "districtNameEn": null,
+    "provinceCode": "84"
+  },
+  {
+    "districtCode": 8481,
+    "districtNameTh": "อ.บ้านดอน\tจ.สุราษฎร์ธานี*",
+    "districtNameEn": null,
+    "provinceCode": "84"
+  }
+]
