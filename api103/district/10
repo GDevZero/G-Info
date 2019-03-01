@@ -1,0 +1,302 @@
+[
+  {
+    "districtCode": 1001,
+    "districtNameTh": "พระนคร",
+    "districtNameEn": "Phra Nakhon",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1002,
+    "districtNameTh": "ดุสิต",
+    "districtNameEn": "Dusit",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1003,
+    "districtNameTh": "หนองจอก",
+    "districtNameEn": "Nong Chok",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1004,
+    "districtNameTh": "บางรัก",
+    "districtNameEn": "Bang Rak",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1005,
+    "districtNameTh": "บางเขน",
+    "districtNameEn": "Bang Khen",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1006,
+    "districtNameTh": "บางกะปิ",
+    "districtNameEn": "Bang Kapi",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1007,
+    "districtNameTh": "ปทุมวัน",
+    "districtNameEn": "Pathum Wan",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1008,
+    "districtNameTh": "ป้อมปราบศัตรูพ่าย",
+    "districtNameEn": "Pom Prap Sattruphai",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1009,
+    "districtNameTh": "พระโขนง",
+    "districtNameEn": "Phra Khanong",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1010,
+    "districtNameTh": "มีนบุรี",
+    "districtNameEn": "Min Buri",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1011,
+    "districtNameTh": "ลาดกระบัง",
+    "districtNameEn": "Lat Krabang",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1012,
+    "districtNameTh": "ยานนาวา",
+    "districtNameEn": "Yannawa",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1013,
+    "districtNameTh": "สัมพันธวงศ์",
+    "districtNameEn": "Samphanthawong",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1014,
+    "districtNameTh": "พญาไท",
+    "districtNameEn": "Phaya Thai",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1015,
+    "districtNameTh": "ธนบุรี",
+    "districtNameEn": "Thon Buri",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1016,
+    "districtNameTh": "บางกอกใหญ่",
+    "districtNameEn": "Bangkok Yai",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1017,
+    "districtNameTh": "ห้วยขวาง",
+    "districtNameEn": "Huai Khwang",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1018,
+    "districtNameTh": "คลองสาน",
+    "districtNameEn": "Khlong San",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1019,
+    "districtNameTh": "ตลิ่งชัน",
+    "districtNameEn": "Taling Chan",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1020,
+    "districtNameTh": "บางกอกน้อย",
+    "districtNameEn": "Bangkok Noi",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1021,
+    "districtNameTh": "บางขุนเทียน",
+    "districtNameEn": "Bang Khun Thian",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1022,
+    "districtNameTh": "ภาษีเจริญ",
+    "districtNameEn": "Phasi Charoen",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1023,
+    "districtNameTh": "หนองแขม",
+    "districtNameEn": "Nong Khaem",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1024,
+    "districtNameTh": "ราษฎร์บูรณะ",
+    "districtNameEn": "Rat Burana",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1025,
+    "districtNameTh": "บางพลัด",
+    "districtNameEn": "Bang Phlat",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1026,
+    "districtNameTh": "ดินแดง",
+    "districtNameEn": "Din Daeng",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1027,
+    "districtNameTh": "บึงกุ่ม",
+    "districtNameEn": "Bung Kum",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1028,
+    "districtNameTh": "สาทร",
+    "districtNameEn": "Sa Thon",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1029,
+    "districtNameTh": "บางซื่อ",
+    "districtNameEn": "Bang Su",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1030,
+    "districtNameTh": "จตุจักร",
+    "districtNameEn": "Chatuchak",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1031,
+    "districtNameTh": "บางคอแหลม",
+    "districtNameEn": "Bang Kho Laem",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1032,
+    "districtNameTh": "ประเวศ",
+    "districtNameEn": "Prawet",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1033,
+    "districtNameTh": "คลองเตย",
+    "districtNameEn": "Khlong Toei",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1034,
+    "districtNameTh": "สวนหลวง",
+    "districtNameEn": "Suan Luang",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1035,
+    "districtNameTh": "จอมทอง",
+    "districtNameEn": "Chom Thong",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1036,
+    "districtNameTh": "ดอนเมือง",
+    "districtNameEn": "Don Mueang",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1037,
+    "districtNameTh": "ราชเทวี",
+    "districtNameEn": "Rat Thewi",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1038,
+    "districtNameTh": "ลาดพร้าว",
+    "districtNameEn": "Lat Phrao",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1039,
+    "districtNameTh": "วัฒนา",
+    "districtNameEn": "Watthana",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1040,
+    "districtNameTh": "บางแค",
+    "districtNameEn": "Bang Khae",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1041,
+    "districtNameTh": "หลักสี่",
+    "districtNameEn": "Lak Si",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1042,
+    "districtNameTh": "สายไหม",
+    "districtNameEn": "Sai Mai",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1043,
+    "districtNameTh": "คันนายาว",
+    "districtNameEn": "Khanna Yao",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1044,
+    "districtNameTh": "สะพานสูง",
+    "districtNameEn": "Saphan Sung",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1045,
+    "districtNameTh": "วังทองหลาง",
+    "districtNameEn": "Wang Thong Lang",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1046,
+    "districtNameTh": "คลองสามวา",
+    "districtNameEn": "Khlong Sam Wa",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1047,
+    "districtNameTh": "บางนา",
+    "districtNameEn": "Bang Na",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1048,
+    "districtNameTh": "ทวีวัฒนา",
+    "districtNameEn": "Thawi Watthana",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1049,
+    "districtNameTh": "ทุ่งครุ",
+    "districtNameEn": "Thung Khu",
+    "provinceCode": "10"
+  },
+  {
+    "districtCode": 1050,
+    "districtNameTh": "บางบอน",
+    "districtNameEn": "Bang Bon",
+    "provinceCode": "10"
+  }
+]
