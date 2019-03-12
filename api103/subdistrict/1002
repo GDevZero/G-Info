@@ -1,44 +1,27 @@
 [
-  {
-    "code": "100201",
-    "subDistrictNameTh": "ดุสิต",
-    "subDistrictNameEn": "Dusit",
-    "subDistrictCode": "1002"
-  },
-  {
-    "code": "100202",
-    "subDistrictNameTh": "วชิรพยาบาล",
-    "subDistrictNameEn": "Wachira Phayaban",
-    "subDistrictCode": "1002"
-  },
-  {
-    "code": "100203",
-    "subDistrictNameTh": "สวนจิตรลดา",
-    "subDistrictNameEn": "Suan Chit Lada",
-    "subDistrictCode": "1002"
-  },
-  {
-    "code": "100204",
-    "subDistrictNameTh": "สี่แยกมหานาค",
-    "subDistrictNameEn": "Si Yaek Maha Nak",
-    "subDistrictCode": "1002"
-  },
-  {
-    "code": "100206",
-    "subDistrictNameTh": "ถนนนครไชยศรี",
-    "subDistrictNameEn": "",
-    "subDistrictCode": "1002"
-  },
-  {
-    "code": "100205",
-    "subDistrictNameTh": "บางซื่อ",
-    "subDistrictNameEn": "",
-    "subDistrictCode": "1002"
-  },
-  {
-    "code": "100299",
-    "subDistrictNameTh": "สามเสนใน",
-    "subDistrictNameEn": "",
-    "subDistrictCode": "1002"
-  }
+    {
+        "subDistrictCode": "100201",
+        "subDistrictNameTh": "ดุสิต",
+        "subDistrictNameEn": ""
+    },
+    {
+        "subDistrictCode": "100202",
+        "subDistrictNameTh": "วชิรพยาบาล",
+        "subDistrictNameEn": ""
+    },
+    {
+        "subDistrictCode": "100203",
+        "subDistrictNameTh": "สวนจิตรลดา",
+        "subDistrictNameEn": ""
+    },
+    {
+        "subDistrictCode": "100204",
+        "subDistrictNameTh": "สี่แยกมหานาค",
+        "subDistrictNameEn": ""
+    },
+    {
+        "subDistrictCode": "100206",
+        "subDistrictNameTh": "ถนนนครไชยศรี",
+        "subDistrictNameEn": ""
+    }
 ]
