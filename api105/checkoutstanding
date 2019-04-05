@@ -1,0 +1,32 @@
+{"eInstrument": {
+        "responseCode": "I07000",
+        "responsMessage": "สำเร็จ",
+        "rdFrom": [
+            {
+                "nid": "0992000000000",
+                "refNo": "P0900000803",
+                "titleName": "",
+                "firstName": "ชัย xxxxx 2550",
+                "middleName": "",
+                "surname": "",
+                "branchType": "S",
+                "branchNo": 3,
+                "filingStatusCode": 1,
+                "createDate": "2019-03-11 14:39:05.0",
+                "totalAmount": 100
+            },
+            {
+                "nid": "0992000000000",
+                "refNo": "P0900000805",
+                "titleName": "",
+                "firstName": "ชัย dddd 2550",
+                "middleName": "",
+                "surname": "",
+                "branchType": "S",
+                "branchNo": 3,
+                "filingStatusCode": 1,
+                "createDate": "2019-03-11 14:42:24.0",
+                "totalAmount": 100
+            }
+        ]
+}}
