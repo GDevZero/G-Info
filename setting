@@ -1,0 +1,6 @@
+{
+    rowMaximun: {
+      local: 100,
+      gobal: 300
+    }
+}
