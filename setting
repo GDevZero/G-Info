@@ -1,5 +1,5 @@
 {
-    rowMaximun: {
+    rowlimit: {
       local: 100,
       gobal: 300
     }
